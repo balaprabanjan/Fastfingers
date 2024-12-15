@@ -6,7 +6,7 @@ const Features = () => {
     <div className="container mx-auto bg-black shadow-lime-400 shadow-lg mt-52">
     <p className="text-center text-5xl text-lime-500">Features</p>
     <div className='grid grid-cols-4 px-5 gap-2 mt-12'>
-    <div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 mb-10 dark:border-gray-700">
     <a href="#">
         <img className="rounded-t-lg w-96" src="/speed.jpg" alt="" />
     </a>
@@ -27,7 +27,7 @@ const Features = () => {
 
 
 
-<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 mb-10 dark:border-gray-700">
     <a href="#">
         <img className="rounded-t-lg w-96" src="/practice.jpg" alt="" />
     </a>
@@ -47,7 +47,7 @@ const Features = () => {
 
 
 
-<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 mb-10 dark:border-gray-700">
     <a href="#">
         <img className="rounded-t-lg w-96" src="/test.png" alt="" />
     </a>
@@ -68,7 +68,7 @@ const Features = () => {
 
 
 
-<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div className="max-w-sm bg-black border border-lime-400 rounded-lg shadow dark:bg-gray-800 mb-10 dark:border-gray-700">
     <a href="#">
         <img className="rounded-t-lg w-96" src="/ui.jpg" alt="" />
     </a>
